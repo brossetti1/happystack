@@ -20,3 +20,14 @@ npx create-next-app -e https://github.com/shadcn/next-template
 ## License
 
 Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
+
+## Research
+
+- wysiwyg
+  - https://www.tiny.cloud/solutions/wysiwyg-react-rich-text-editor/
+- ui framework
+ - shaden/ui
+- state manager
+  - zuxstand
+- what db to use?
+  - supabase + primsa
