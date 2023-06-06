@@ -2,6 +2,14 @@
 
 A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
 
+## Developement
+
+- install [pnpm](https://pnpm.io/)
+- install node version specified in nvmrc
+- switch to node version: `nvm use`
+- run `pnpm install`
+- run `pnpm dev` to get started developing
+
 ## Usage
 
 ```bash
